@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 246427754
+CRC: 1090016349
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0a6dd47e1bd9fa505bb7e9d13ee1805e
+    Hash: 9e30d8c7904485468ab87eee9bf7d4ab
   TypeTreeHash:
     serializedVersion: 2
     Hash: d27d605e56b00c7d193d3604b99a7461
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0a6dd47e1bd9fa505bb7e9d13ee1805e
+    Hash: 9e30d8c7904485468ab87eee9bf7d4ab
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -33,7 +33,7 @@ Assets:
 - Assets/Models/stylized-treasure-chest-free/Materials/Material.002_ColorMap.mat
 - Assets/Models/stylized-treasure-chest-free/textures/Material.002_ColorMap.png
 - Assets/Models/stylized-treasure-chest-free/source/Low_Poly_TreasureChest.fbx
-- Assets/Prefabs/box.prefab
+- Assets/Models/stylized-treasure-chest-free/Materials/Material.002_ColorMap 1.mat
 - Assets/Models/stylized-treasure-chest-free/source/Materials/DefaultMaterial_ColorMap.mat
 - Assets/Models/stylized-treasure-chest-free/textures/Material.002_RoughnessMap.png
 - Assets/Models/stylized-treasure-chest-free/textures/Material.002_MetalnessMap.png
