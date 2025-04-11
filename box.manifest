@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 246427754
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24ec18e5682243c30417fc1ee5087923
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d27d605e56b00c7d193d3604b99a7461
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 24ec18e5682243c30417fc1ee5087923
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/stylized-treasure-chest-free/Materials/Material.002_ColorMap.mat
+- Assets/Models/stylized-treasure-chest-free/textures/Material.002_ColorMap.png
+- Assets/Models/stylized-treasure-chest-free/source/Low_Poly_TreasureChest.fbx
+- Assets/Prefabs/box.prefab
+- Assets/Models/stylized-treasure-chest-free/source/Materials/DefaultMaterial_ColorMap.mat
+- Assets/Models/stylized-treasure-chest-free/textures/Material.002_RoughnessMap.png
+- Assets/Models/stylized-treasure-chest-free/textures/Material.002_MetalnessMap.png
+- Assets/Models/stylized-treasure-chest-free/textures/Material.002_NormalMap.png
+Dependencies: []
